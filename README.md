@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kritzxd8
+- 👋 Hi, I’m kritika kori
 - 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning DSA in JAVA and MERN Stack
 - 💞️ I’m looking to collaborate on Web dev
