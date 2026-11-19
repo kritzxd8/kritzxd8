@@ -75,13 +75,4 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning_with_Python-E%26ICT_IIT_Kanpur-0F4C81?style=flat-square)
 ![Full Stack PHP & MySQL](https://img.shields.io/badge/Full_Stack_Development_(PHP_&_MySQL)-E%26ICT_IIT_Kanpur-0F4C81?style=flat-square)
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Kritika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
